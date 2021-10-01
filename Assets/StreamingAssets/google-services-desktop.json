@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460529310840",
+    "project_id": "devaldi-incremental-game",
+    "storage_bucket": "devaldi-incremental-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460529310840:android:5391c4d64db50a15db218d",
+        "android_client_info": {
+          "package_name": "com.incrementalgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460529310840-jlcaf6s8bacihg8h9gcd2o72fmcv0oq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs6r9qurMWiFMrS1d1RVQE0n47Ip5AE-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460529310840-jlcaf6s8bacihg8h9gcd2o72fmcv0oq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
