@@ -4,6 +4,15 @@ Implementasi Firebase Sederhana - Incremental Game, Dibuat dengan UNITY 2018.3.3
 ## Base
 https://github.com/devteam21/Agate-IncrementalGame
 
+## Build Download
+Desktop : https://github.com/devteam21/Implementasi-Firebase-Sederhana/raw/setupandfireanalytics/Desktop.zip
+
+Unzip -> Click Agate IncrementalGame.Exe
+
+Android : https://github.com/devteam21/Implementasi-Firebase-Sederhana/blob/setupandfireanalytics/Android.zip
+
+Unzip -> Install APK -> Play
+
 ## Daftar Branch:
 1. saveorloaduserprogress = Tugas1
 2. setupandfireanalytics = Tugas2
